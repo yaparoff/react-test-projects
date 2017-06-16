@@ -1,0 +1,9 @@
+.idea
+.vscode/
+node_modules/
+.history
+*.log
+.DS_Store
+build/
+stats.json
+server/index.html
