@@ -25,11 +25,6 @@ module.exports = {
                 exclude: [/node_modules/, /public/]
             },
             {
-                test: /\.pcss$/,
-                loader: "postcss-loader!style-loader!autoprefixer-loader",
-                exclude: [/node_modules/, /public/]
-            },
-            {
                 test: /\.gif$/,
                 loader: "url-loader?limit=10000&mimetype=image/gif"
             },

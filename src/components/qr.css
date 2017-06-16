@@ -12,8 +12,8 @@
     background-color: #fff;
     font-size: 1rem;
     
-    &__img {
-        display: block;
-        width: 100%;
-    }
+}
+.qr__img {
+    display: block;
+    width: 100%;
 }

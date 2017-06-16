@@ -1,6 +1,6 @@
 var React = require('react');
 var createReactClass = require('create-react-class');
-require('./qr.pcss');
+require('./qr.css');
 
 function Qr(props) {
     return (
